@@ -17,12 +17,12 @@ To develop a book recommendation system that provides personalized suggestions t
 ### Specific Objectives
 
 1. To analyze top book sales per city
-2. 
-3. To find the most popular books so as to infer genres
-4. 
-5. To find most popular authors
-6. 
-7. To find the voting frequency of the users
+  
+2. To find the most popular books so as to infer genres
+   
+3. To find most popular authors
+   
+4. To find the voting frequency of the users
 
 ## DATA UNDERSTANDING
 Our dataset is from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/
@@ -80,16 +80,16 @@ The project's success criteria is determined by achieving a Root Mean Squared Er
  The optimised SVD model performed better than the other models with a Root Mean Squared Error of 3.30.
  
 - Features such as genres and author popularity greatly influence book purchases.
-- 
+  
 - While our models scaled well its worth noting that we could have done better by implementing a content-based recommender system to solve for the "cold start " problem (where a new user has no history).
-- 
+  
 - We also faced the challenge of insufficient data which would have greatly improved model performance.
 
 ### Author and Acknowledgement:
 Special thanks to our Moringa School Data Science Technical Mentors for their guidance throughout the project. We would also like to acknowledge the contributions of the Elites team members:
 
 - Ronald Nyagaka
-- Sharon Sonia
+- Sharon Atieno
 - Pamela Awino
 - Isaac Muturi
 - Leonard Rotich
