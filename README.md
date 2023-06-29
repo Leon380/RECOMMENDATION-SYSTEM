@@ -100,13 +100,23 @@ http://ec2-13-49-44-61.eu-north-1.compute.amazonaws.com:8080/
 
 here are a sample of books from our dataset to you can get recommendations on:
 1st to Die: A Novel
+
 2nd Chance 
+
 4 Blondes 
+
 A Bend in the Road
+
 A Case of Need
+
 A Heartbreaking Work of Staggering Genius
+
 A Is for Alibi (Kinsey Millhone Mysteries (Paperback))
+
 A Man in Full
+
 A Map of the World
+
 Harry Potter and the Chamber of Secrets (Book 2)
+
 The Bourne Ultimatum
